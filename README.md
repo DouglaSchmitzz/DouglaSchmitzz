@@ -6,7 +6,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglaSchmitzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglaSchmitzz&theme=nord_dark)
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglaSchmitzz&theme=nord_dark" height="202" alt="languages graph"/>
+
 </div>
 
 ###
